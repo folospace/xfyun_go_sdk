@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"git.hunantv.com/wujianqiang/tools/xfyun/raasr"
+	"github.com/folospace/xfyun_go_sdk/raasr"
 )
 
 func main() {
